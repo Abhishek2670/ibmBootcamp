@@ -1,7 +1,9 @@
 {
   "cSpell.words": [
     "imshow",
-    "webcamp"
+    "sharey",
+    "webcamp",
+    "xlabel"
   ],
   "python-envs.defaultEnvManager": "ms-python.python:system"
 }
